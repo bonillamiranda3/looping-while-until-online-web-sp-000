@@ -7,3 +7,5 @@ def using_while
       leviatation_force += 1
     end
 end
+
+using_while

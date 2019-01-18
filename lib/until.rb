@@ -6,5 +6,3 @@ def using_until
     evitation_force += 1
   end
 end
-
-
